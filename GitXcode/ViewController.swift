@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         print("Hello world!")
         let mapViewController = MapViewController()
         print(mapViewController)
+        
+        print("test2")
     }
 
     override func didReceiveMemoryWarning() {
